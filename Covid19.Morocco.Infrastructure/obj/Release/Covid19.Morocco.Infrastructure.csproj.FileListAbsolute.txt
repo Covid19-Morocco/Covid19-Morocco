@@ -1,0 +1,15 @@
+D:\Projects\Covid19.Morocco\Covid19-Morocco\Covid19.Morocco.Infrastructure\bin\Release\Covid19.Morocco.Infrastructure.dll.config
+D:\Projects\Covid19.Morocco\Covid19-Morocco\Covid19.Morocco.Infrastructure\bin\Release\Covid19.Morocco.Infrastructure.dll
+D:\Projects\Covid19.Morocco\Covid19-Morocco\Covid19.Morocco.Infrastructure\bin\Release\Covid19.Morocco.Infrastructure.pdb
+D:\Projects\Covid19.Morocco\Covid19-Morocco\Covid19.Morocco.Infrastructure\bin\Release\Covid19.Morocco.Data.dll
+D:\Projects\Covid19.Morocco\Covid19-Morocco\Covid19.Morocco.Infrastructure\bin\Release\EntityFramework.dll
+D:\Projects\Covid19.Morocco\Covid19-Morocco\Covid19.Morocco.Infrastructure\bin\Release\EntityFramework.SqlServer.dll
+D:\Projects\Covid19.Morocco\Covid19-Morocco\Covid19.Morocco.Infrastructure\bin\Release\Covid19.Morocco.Data.pdb
+D:\Projects\Covid19.Morocco\Covid19-Morocco\Covid19.Morocco.Infrastructure\bin\Release\Covid19.Morocco.Data.dll.config
+D:\Projects\Covid19.Morocco\Covid19-Morocco\Covid19.Morocco.Infrastructure\bin\Release\EntityFramework.xml
+D:\Projects\Covid19.Morocco\Covid19-Morocco\Covid19.Morocco.Infrastructure\bin\Release\EntityFramework.SqlServer.xml
+D:\Projects\Covid19.Morocco\Covid19-Morocco\Covid19.Morocco.Infrastructure\obj\Release\Covid19.Morocco.Infrastructure.csprojAssemblyReference.cache
+D:\Projects\Covid19.Morocco\Covid19-Morocco\Covid19.Morocco.Infrastructure\obj\Release\Covid19.Morocco.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\Covid19.Morocco\Covid19-Morocco\Covid19.Morocco.Infrastructure\obj\Release\Covid19.Morocco.Infrastructure.csproj.CopyComplete
+D:\Projects\Covid19.Morocco\Covid19-Morocco\Covid19.Morocco.Infrastructure\obj\Release\Covid19.Morocco.Infrastructure.dll
+D:\Projects\Covid19.Morocco\Covid19-Morocco\Covid19.Morocco.Infrastructure\obj\Release\Covid19.Morocco.Infrastructure.pdb

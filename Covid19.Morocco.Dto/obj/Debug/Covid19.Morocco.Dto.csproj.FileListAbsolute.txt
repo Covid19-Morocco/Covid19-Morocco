@@ -1,0 +1,6 @@
+D:\Projects\Covid19.Morocco\Covid19-Morocco\Covid19.Morocco.Dto\bin\Debug\Covid19.Morocco.Dto.dll
+D:\Projects\Covid19.Morocco\Covid19-Morocco\Covid19.Morocco.Dto\bin\Debug\Covid19.Morocco.Dto.pdb
+D:\Projects\Covid19.Morocco\Covid19-Morocco\Covid19.Morocco.Dto\obj\Debug\Covid19.Morocco.Dto.csprojAssemblyReference.cache
+D:\Projects\Covid19.Morocco\Covid19-Morocco\Covid19.Morocco.Dto\obj\Debug\Covid19.Morocco.Dto.csproj.CoreCompileInputs.cache
+D:\Projects\Covid19.Morocco\Covid19-Morocco\Covid19.Morocco.Dto\obj\Debug\Covid19.Morocco.Dto.dll
+D:\Projects\Covid19.Morocco\Covid19-Morocco\Covid19.Morocco.Dto\obj\Debug\Covid19.Morocco.Dto.pdb
