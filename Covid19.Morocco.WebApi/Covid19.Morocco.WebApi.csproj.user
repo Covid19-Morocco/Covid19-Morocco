@@ -10,7 +10,7 @@
     <UseGlobalApplicationHostFile />
     <LastActiveSolutionConfig>Debug|Any CPU</LastActiveSolutionConfig>
     <ProjectView>ProjectFiles</ProjectView>
-    <NameOfLastUsedPublishProfile>api.covid-19.morocco.el-hamdani.com - Web Deploy</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>covid-19.morocco.el-hamdani.com - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>

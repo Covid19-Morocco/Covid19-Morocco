@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq.Expressions;
 using Covid19.Morocco.Data.Models;
 using Covid19.Morocco.Infrastructure;
 using Covid19.Morocco.Repository;
@@ -26,7 +27,8 @@ namespace Covid19.Morocco.Service
 
         public void Delete(City city) => _cityRepository.Delete(city);
 
-        public IEnumerable<City> GetAll() => (IEnumerable<City>) _cityRepository.GetAll();
+        public IEnumerable<City> GetAll() => (IEnumerable<City>)_cityRepository.GetAll();
+        public IEnumerable<City> GetMany(Expression<Func<City, bool>> where) => (IEnumerable<City>)_cityRepository.GetMany(where);
 
         public void Save() => _unitOfWork.Commit();
     }

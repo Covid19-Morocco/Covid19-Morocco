@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covid19.Morocco.Repository"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covid19.Morocco.Service", "Covid19.Morocco.Service\Covid19.Morocco.Service.csproj", "{C9A7556F-96AA-40DB-AD52-7BC1115D2749}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covid19.Morocco.WebApi.Post", "Covid19.Morocco.WebApi.Post\Covid19.Morocco.WebApi.Post.csproj", "{3CA24B4C-2EF0-45EA-89EA-E4F9908C8E3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covid19.Morocco.WebApi.Post.Tests", "Web\Covid19.Morocco.WebApi.Post.Tests\Covid19.Morocco.WebApi.Post.Tests.csproj", "{433AD92C-0C63-4042-8C31-4DF0863AA812}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{C9A7556F-96AA-40DB-AD52-7BC1115D2749}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9A7556F-96AA-40DB-AD52-7BC1115D2749}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9A7556F-96AA-40DB-AD52-7BC1115D2749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CA24B4C-2EF0-45EA-89EA-E4F9908C8E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CA24B4C-2EF0-45EA-89EA-E4F9908C8E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CA24B4C-2EF0-45EA-89EA-E4F9908C8E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CA24B4C-2EF0-45EA-89EA-E4F9908C8E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{433AD92C-0C63-4042-8C31-4DF0863AA812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433AD92C-0C63-4042-8C31-4DF0863AA812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433AD92C-0C63-4042-8C31-4DF0863AA812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433AD92C-0C63-4042-8C31-4DF0863AA812}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -69,6 +81,8 @@ Global
 		{9DC9DA34-A0CD-4DE0-B5CF-578654462C7C} = {58D2B476-6BB9-4D6A-90EA-AEF2E2181ACC}
 		{F422F760-2EBF-4A63-967B-3E2C0AF5CAA9} = {58D2B476-6BB9-4D6A-90EA-AEF2E2181ACC}
 		{C9A7556F-96AA-40DB-AD52-7BC1115D2749} = {58D2B476-6BB9-4D6A-90EA-AEF2E2181ACC}
+		{3CA24B4C-2EF0-45EA-89EA-E4F9908C8E3D} = {2847E195-73E1-4EC7-A0A0-11A92DDD6F4A}
+		{433AD92C-0C63-4042-8C31-4DF0863AA812} = {C21084C8-18C6-4736-9187-1ED12E6303E2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2DE284AE-4A80-4CCC-8578-F0F5E58458A8}

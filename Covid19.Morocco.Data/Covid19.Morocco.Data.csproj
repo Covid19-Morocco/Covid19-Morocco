@@ -54,6 +54,10 @@
     <Compile Include="Migrations\202003280028329_InitialCreate.Designer.cs">
       <DependentUpon>202003280028329_InitialCreate.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202003282040157_Covid19.Morocco.Migration.cs" />
+    <Compile Include="Migrations\202003282040157_Covid19.Morocco.Migration.Designer.cs">
+      <DependentUpon>202003282040157_Covid19.Morocco.Migration.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Cases.cs" />
     <Compile Include="Models\City.cs" />
@@ -63,6 +67,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202003280028329_InitialCreate.resx">
       <DependentUpon>202003280028329_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202003282040157_Covid19.Morocco.Migration.resx">
+      <DependentUpon>202003282040157_Covid19.Morocco.Migration.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

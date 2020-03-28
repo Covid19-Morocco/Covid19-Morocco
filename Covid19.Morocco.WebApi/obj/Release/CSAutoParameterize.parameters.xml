@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="Covid19MoroccoDatabase-Web.config Connection String" description="Covid19MoroccoDatabase Connection String used in web.config by the application to access the database." defaultValue="server=184.168.194.62;Database=Covid19.Morocco;User Id=covidmorocco;Password=$8$pkQWMnFZTzJ!H;" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="D:\\Projects\\Covid19\.Morocco\\Covid19-Morocco\\Covid19\.Morocco\.WebApi\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Covid19MoroccoDatabase']/@connectionString" />
-  </parameter>
-</parameters>
