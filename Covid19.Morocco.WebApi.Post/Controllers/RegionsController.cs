@@ -29,7 +29,7 @@ namespace Covid19.Morocco.WebApi.Post.Controllers
                 _regionService.Add(new Region
                 {
                     Id = Guid.NewGuid(),
-                    Name = createRegionRequest.Name,
+                    Label = createRegionRequest.Name,
                     Code = createRegionRequest.Code
                 });
                 _regionService.Save();
