@@ -31,7 +31,7 @@ namespace Covid19.Morocco.WebApi.Post.Controllers
                 _cityService.Add(new City
                 {
                     Id = Guid.NewGuid(),
-                    Name = createCityRequest.Name,
+                    Label = createCityRequest.Name,
                     Code = createCityRequest.Code,
                     Region_Id = region?.Id ?? throw new Exception("Region not found, please check the region code and try again.")
                 });

@@ -54,9 +54,17 @@
     <Compile Include="Migrations\202003280028329_InitialCreate.Designer.cs">
       <DependentUpon>202003280028329_InitialCreate.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202003282040157_Covid19.Morocco.Migration.cs" />
-    <Compile Include="Migrations\202003282040157_Covid19.Morocco.Migration.Designer.cs">
-      <DependentUpon>202003282040157_Covid19.Morocco.Migration.cs</DependentUpon>
+    <Compile Include="Migrations\202003282040157_Covid19MoroccoMigration.cs" />
+    <Compile Include="Migrations\202003282040157_Covid19MoroccoMigration.Designer.cs">
+      <DependentUpon>202003282040157_Covid19MoroccoMigration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202003291606207_Covid19MoroccoMigration1.cs" />
+    <Compile Include="Migrations\202003291606207_Covid19MoroccoMigration1.Designer.cs">
+      <DependentUpon>202003291606207_Covid19MoroccoMigration1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202003291609016_Covid19MoroccoMigration2.cs" />
+    <Compile Include="Migrations\202003291609016_Covid19MoroccoMigration2.Designer.cs">
+      <DependentUpon>202003291609016_Covid19MoroccoMigration2.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Cases.cs" />
@@ -68,8 +76,14 @@
     <EmbeddedResource Include="Migrations\202003280028329_InitialCreate.resx">
       <DependentUpon>202003280028329_InitialCreate.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202003282040157_Covid19.Morocco.Migration.resx">
-      <DependentUpon>202003282040157_Covid19.Morocco.Migration.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202003282040157_Covid19MoroccoMigration.resx">
+      <DependentUpon>202003282040157_Covid19MoroccoMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202003291606207_Covid19MoroccoMigration1.resx">
+      <DependentUpon>202003291606207_Covid19MoroccoMigration1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202003291609016_Covid19MoroccoMigration2.resx">
+      <DependentUpon>202003291609016_Covid19MoroccoMigration2.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

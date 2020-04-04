@@ -5,6 +5,7 @@
     }
     public enum CaseType
     {
+        Excluded,
         Discovered,
         Death,
         Recovered
